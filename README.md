@@ -44,7 +44,6 @@ With the following software and hardware list you can run all code files present
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
 |  	1-19	   |   	Python 3                                  			  | Windows, macOS, or Linux | 		
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800560413_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
 * Modern Generative AI with ChatGPT and OpenAI Models [[Packt]](https://www.packtpub.com/en-us/product/modern-generative-ai-with-chatgpt-and-openai-models-9781805123330) [[Amazon]](https://www.amazon.com/Modern-Generative-ChatGPT-OpenAI-Models/dp/1805123335/ref=sr_1_1?sr=8-1)
